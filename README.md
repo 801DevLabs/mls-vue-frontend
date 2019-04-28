@@ -13,6 +13,8 @@ Access the live Netlify site by visiting [this link.](https://hardcore-wilson-ed
 
 ### RESTful API Read or GET endpoints:
 
+**You may need to navigate to each of the endpoints/queries/mutations starting with the base url rather than clicking the link.**
+
 Get all listings: [https://hardcore-wilson-ed5b2a.netlify.com/rest](https://hardcore-wilson-ed5b2a.netlify.com/rest)
 
 Get one listing: [https://hardcore-wilson-ed5b2a.netlify.com/rest/5c744c482730fd089bfdc5ad](https://hardcore-wilson-ed5b2a.netlify.com/rest/5c744c482730fd089bfdc5ad)
