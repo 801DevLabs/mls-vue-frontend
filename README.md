@@ -6,7 +6,7 @@ Clone or download the [GraphQL repo here.](https://github.com/801DevLabs/mls-gra
 Follow the steps in the readme to install Docker, seed the datastore and get the Nexus server live on localhost port 4000.
 
 ## Step 2: Access the live website
-Option one: Visit the live Netlify site by visiting [this link.](https://hardcore-wilson-ed5b2a.netlify.com/rest)
+Option one: Access the live Netlify site by visiting [this link.](https://hardcore-wilson-ed5b2a.netlify.com/rest)
 
 Option two: Run the project locally by cloning this repo and running npm run serve.
 
