@@ -6,9 +6,7 @@ Clone or download the [GraphQL repo here.](https://github.com/801DevLabs/mls-gra
 Follow the steps in the readme to install Docker, seed the datastore and get the Nexus server live on localhost port 4000.
 
 ## Step 2: Access the live website
-Option one: Access the live Netlify site by visiting [this link.](https://hardcore-wilson-ed5b2a.netlify.com/rest)
-
-Option two: Run the project locally by cloning this repo and running npm run serve.
+Access the live Netlify site by visiting [this link.](https://hardcore-wilson-ed5b2a.netlify.com/rest)
 
 The toggle navigation at the top of the site allows you to toggle between RESTful API and GraphQL pages.
 
@@ -17,11 +15,11 @@ The toggle navigation at the top of the site allows you to toggle between RESTfu
 
 ### RESTful API Read or GET endpoints:
 
-**Get all listings:** [https://hardcore-wilson-ed5b2a.netlify.com/rest](https://hardcore-wilson-ed5b2a.netlify.com/rest)
+Get all listings: [https://hardcore-wilson-ed5b2a.netlify.com/rest](https://hardcore-wilson-ed5b2a.netlify.com/rest)
 
-**Get one listing:** [https://hardcore-wilson-ed5b2a.netlify.com/rest/5c744c482730fd089bfdc5ad](https://hardcore-wilson-ed5b2a.netlify.com/rest/5c744c482730fd089bfdc5ad)
+Get one listing: [https://hardcore-wilson-ed5b2a.netlify.com/rest/5c744c482730fd089bfdc5ad](https://hardcore-wilson-ed5b2a.netlify.com/rest/5c744c482730fd089bfdc5ad)
 
-**Get all listings in Orem:** [https://hardcore-wilson-ed5b2a.netlify.com/rest/orem](https://hardcore-wilson-ed5b2a.netlify.com/rest/orem)
+Get all listings in Orem: [https://hardcore-wilson-ed5b2a.netlify.com/rest/orem](https://hardcore-wilson-ed5b2a.netlify.com/rest/orem)
 
 ### RESTful API CREATE endpoints:
 
