@@ -23,25 +23,25 @@ Get all listings in Orem: [https://hardcore-wilson-ed5b2a.netlify.com/rest/orem]
 
 ### RESTful API CREATE endpoints:
 
-**Create a listing:** [https://hardcore-wilson-ed5b2a.netlify.com/rest/create](https://hardcore-wilson-ed5b2a.netlify.com/rest/create)
+Create a listing: [https://hardcore-wilson-ed5b2a.netlify.com/rest/create](https://hardcore-wilson-ed5b2a.netlify.com/rest/create)
 
 ### RESTful API UPDATE endpoints:
 
-**Update a listing:** [https://hardcore-wilson-ed5b2a.netlify.com/rest/5c744c482730fd089bfdc5ad/update](https://hardcore-wilson-ed5b2a.netlify.com/rest/5c744c482730fd089bfdc5ad/update)
+Update a listing: [https://hardcore-wilson-ed5b2a.netlify.com/rest/5c744c482730fd089bfdc5ad/update](https://hardcore-wilson-ed5b2a.netlify.com/rest/5c744c482730fd089bfdc5ad/update)
 
 ### RESTful API DELETE endpoints:
 
-**Delete a listing:** [https://hardcore-wilson-ed5b2a.netlify.com/rest/5c744c482730fd089bfdc5ad](https://hardcore-wilson-ed5b2a.netlify.com/rest/5c744c482730fd089bfdc5ad)
+Delete a listing: [https://hardcore-wilson-ed5b2a.netlify.com/rest/5c744c482730fd089bfdc5ad](https://hardcore-wilson-ed5b2a.netlify.com/rest/5c744c482730fd089bfdc5ad)
 
 ## Step 4: Access the GraphQL API Queries and Mutations
 
 ### GraphQL API Read or GET Queries:
 
-**Get all listings:** [https://hardcore-wilson-ed5b2a.netlify.com/graphql](https://hardcore-wilson-ed5b2a.netlify.com/graphql)
+Get all listings: [https://hardcore-wilson-ed5b2a.netlify.com/graphql](https://hardcore-wilson-ed5b2a.netlify.com/graphql)
 
-**Get one listing:** [https://hardcore-wilson-ed5b2a.netlify.com/graphql/cjuvkcfwz007v0870pridmgat](https://hardcore-wilson-ed5b2a.netlify.com/graphql/cjuvkcfwz007v0870pridmgat)
+Get one listing: [https://hardcore-wilson-ed5b2a.netlify.com/graphql/cjuvkcfwz007v0870pridmgat](https://hardcore-wilson-ed5b2a.netlify.com/graphql/cjuvkcfwz007v0870pridmgat)
 
-**Get all listings in Orem:** [https://hardcore-wilson-ed5b2a.netlify.com/graphql/orem](https://hardcore-wilson-ed5b2a.netlify.com/graphql/orem)
+Get all listings in Orem: [https://hardcore-wilson-ed5b2a.netlify.com/graphql/orem](https://hardcore-wilson-ed5b2a.netlify.com/graphql/orem)
 
 ### GraphQL API CREATE mutation:
 
@@ -49,8 +49,8 @@ Get all listings in Orem: [https://hardcore-wilson-ed5b2a.netlify.com/rest/orem]
 
 ### GraphQL API UPDATE mutations:
 
-**Update a listing:** [https://hardcore-wilson-ed5b2a.netlify.com/graphql/cjuvkcfwz007v0870pridmgat/update](https://hardcore-wilson-ed5b2a.netlify.com/graphql/cjuvkcfwz007v0870pridmgat/update)
+Update a listing: [https://hardcore-wilson-ed5b2a.netlify.com/graphql/cjuvkcfwz007v0870pridmgat/update](https://hardcore-wilson-ed5b2a.netlify.com/graphql/cjuvkcfwz007v0870pridmgat/update)
 
 ### GraphQL API DELETE endpoints:
 
-**Delete a listing:** [https://hardcore-wilson-ed5b2a.netlify.com/graphql/cjuvkcfwz007v0870pridmgat](https://hardcore-wilson-ed5b2a.netlify.com/graphql/cjuvkcfwz007v0870pridmgat)
+Delete a listing: [https://hardcore-wilson-ed5b2a.netlify.com/graphql/cjuvkcfwz007v0870pridmgat](https://hardcore-wilson-ed5b2a.netlify.com/graphql/cjuvkcfwz007v0870pridmgat)
