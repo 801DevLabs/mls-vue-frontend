@@ -2,12 +2,10 @@
 # Final Project
 
 ## Step 1: Set up Nexus server on port 4000
-Clone or download the [GraphQL repo here.](https://github.com/801DevLabs/mls-graphql-api)
-Follow the steps in the readme to install Docker, seed the datastore and get the Nexus server live on localhost port 4000.
+Set up the GraphQL Nexus server by following the directions at [this repo.](https://github.com/801DevLabs/mls-graphql-api)
 
-## Step 2: Access the live website
-Access the live Netlify site by visiting [this link.](https://hardcore-wilson-ed5b2a.netlify.com/) Select Rest or GraphQL from the top navigation.
-
+## Step 2: Set up the Vue.js front end on local host
+Clone this repo and run the Vue.js front end locally
 
 ## Step 3: Access the RESTful API Endpoints
 
